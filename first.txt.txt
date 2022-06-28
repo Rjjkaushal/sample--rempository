@@ -10,3 +10,6 @@ hi, this one i have changed after pushing it to github.
 
 hi i wann learn restore method by pushing to git
 
+
+hi i wanna learn push command
+
